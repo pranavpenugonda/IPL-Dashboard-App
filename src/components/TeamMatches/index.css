@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.team-banner-img {
+  height: 200px;
+  width: 500px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.team-matches-bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.ul-container {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
